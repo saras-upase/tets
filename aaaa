@@ -1,0 +1,2 @@
+INSERT INTO `CITY` (`ID`,`CITY`,`ENABLE`,`PLANNED`) VALUES (1,'Ahmedabad',b'0',b'0');
+INSERT INTO `CITY` (`ID`,`CITY`,`ENABLE`,`PLANNED`) VALUES (2,'Bangalore',b'0',b'0');
